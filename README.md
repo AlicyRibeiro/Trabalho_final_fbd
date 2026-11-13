@@ -20,9 +20,7 @@ Projeto final desenvolvido para a disciplina de Fundamentos de Banco de Dados (Q
 1. Clone o repositório:
    ```
    git clone [https://github.com/AlicyRibeiro/Trabalho_final_fbd.git](https://github.com/AlicyRibeiro/Trabalho_final_fbd.git)
-```
-
-```
+   ```
 
 2. Acesse o PostgreSQL via pgAdmin ou terminal (`psql`).
 3. Crie o banco de dados: `CREATE DATABASE acolhepet;`
